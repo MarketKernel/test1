@@ -10,7 +10,7 @@ namespace ConsoleApp108
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(3);
+            Console.WriteLine(5);
         }
     }
 }
