@@ -10,7 +10,7 @@ namespace ConsoleApp108
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(6);
+            Console.WriteLine(Newtonsoft.Json.ConstructorHandling.AllowNonPublicDefaultConstructor);
         }
     }
 }
